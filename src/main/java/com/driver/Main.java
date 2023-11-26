@@ -7,7 +7,7 @@ public class Main {
     // obj.member = "Mohit Raj";
     // System.out.println(obj.member);
 
-    obj.setMember("Mohit Raj");
-    System.out.println(obj.getMember());
+    obj.setName("Mohit Raj");
+    System.out.println(obj.getName());
   }
 }
